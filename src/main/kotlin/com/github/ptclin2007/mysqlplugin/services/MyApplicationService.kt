@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ptclin2007.mysqlplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ptclin2007.mysqlplugin.MyBundle
 
 class MyApplicationService {
 

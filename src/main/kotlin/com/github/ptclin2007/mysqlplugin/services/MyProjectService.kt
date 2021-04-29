@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.ptclin2007.mysqlplugin.services
 
+import com.github.ptclin2007.mysqlplugin.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
